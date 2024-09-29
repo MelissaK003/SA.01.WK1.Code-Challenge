@@ -29,7 +29,7 @@ javascript, GIT
 email :Melissakiptoo@gmail.com
 
 ### License
-*LIcenced under the 
+*LIcenced under the https://github.com/MelissaK003/SA.01.WK1.Code-Challenge/blob/main/LICENSE
 
 Copyright (c) 2024 **Melissa Kiptoo**
 
